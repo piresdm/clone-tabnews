@@ -1,4 +1,5 @@
-lst/hydrogen
+lts/hydrogen
+
 <!--Arquivo que mostra a versão do nvm usada nesse projeto. É útil para quando outras pessoas baixam seu projeto.
 Todo arquivo com  que começa com ponto e termina com rc é para isso.
 Quando alguém baixar o projeto e der o comando "nvm install" sem definir nenhuma versão , ele vai instalar a versão que estiver apontada nesse documento.
